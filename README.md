@@ -6,7 +6,7 @@ Simple screen recording with annotations.
 
 ## 📥 Downloads
 
-Get the latest version from the [**Releases**](https://github.com/FullBoreStudios/jot/releases) page:
+Get the latest version from the [**Releases**](https://github.com/FullBoreStudios/jot-releases/releases) page:
 
 > Always use the latest version for updates and fixes.
 
